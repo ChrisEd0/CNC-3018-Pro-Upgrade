@@ -43,3 +43,15 @@ The controller runs **FluidNC**, providing configuration and control of the CNC 
 
 **Developed by Cristian Guerrero**
 
+## Manufacturing Sponsorship
+
+Special thanks to **JUSTWAY** for supporting the project through
+the CNC machining and manufacturing of the custom aluminum parts.
+
+<p align="center">
+  <img src="images/justway-logo.png" width="180">
+</p>
+
+<p align="center">
+  <img src="images/cnc-machined-parts.jpg" width="700">
+</p>
