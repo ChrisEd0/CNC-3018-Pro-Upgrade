@@ -9,13 +9,9 @@ The original CNC 3018 frame was redesigned using **V-Slot aluminum profiles** to
 
 ![3D Model - New Frame](images/frame-3d.png)
 
-![Frame Design](images/frame-design.png)
-
 ### Custom X-Z Carriage
 
 A new **X-Z carriage** was designed for the spindle, adapting the machine to the new frame and improving the mechanical assembly.
-
-![X-Z Carriage 3D Model](images/xz-carriage-3d.png)
 
 ## CNC Machined Parts
 
@@ -23,7 +19,14 @@ The custom aluminum parts for the new mechanical assembly were CNC machined with
 
 ![CNC Machined Parts](images/cnc-machined-parts.jpg)
 
-**JUSTWAY — CNC Manufacturing Sponsor**
+## Manufacturing Sponsorship
+
+Special thanks to **JUSTWAY** for supporting the project through
+the CNC machining and manufacturing of the custom aluminum parts.
+
+<p align="center">
+  <img src="images/justway-logo.png" width="180">
+</p>
 
 ## Custom Electronics
 
@@ -43,11 +46,4 @@ The controller runs **FluidNC**, providing configuration and control of the CNC 
 
 **Developed by Cristian Guerrero**
 
-## Manufacturing Sponsorship
 
-Special thanks to **JUSTWAY** for supporting the project through
-the CNC machining and manufacturing of the custom aluminum parts.
-
-<p align="center">
-  <img src="images/justway-logo.png" width="180">
-</p>
