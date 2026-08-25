@@ -51,7 +51,3 @@ the CNC machining and manufacturing of the custom aluminum parts.
 <p align="center">
   <img src="images/justway-logo.png" width="180">
 </p>
-
-<p align="center">
-  <img src="images/cnc-machined-parts.jpg" width="700">
-</p>
