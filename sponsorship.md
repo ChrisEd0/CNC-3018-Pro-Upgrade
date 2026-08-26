@@ -27,7 +27,7 @@ The **CNC 3018 Upgrade Project** focuses on redesigning and improving a CNC 3018
 
 The custom aluminum components were designed in CAD for the new X-Z carriage and spindle assembly.
 
-![3D CAD Design](images/xz-carriage-cad.jpg)
+![3D CAD Design](images/cad-models.png)
 
 ---
 
@@ -39,27 +39,23 @@ The custom parts were designed in CAD and uploaded to the JUSTWAY platform for C
 
 The platform allows CAD files to be uploaded and provides a 3D preview of the model before placing the order.
 
-![CAD Upload](images/justway-upload.jpg)
+![CAD Upload](images/order.png)
 
 ## Manufacturing Configuration
 
 The material, manufacturing process, quantity, and other parameters can be configured according to the project requirements.
 
-![Order Configuration](images/justway-order.jpg)
-
 ## Order Confirmation
 
 After reviewing the manufacturing information, the order was confirmed and sent to production.
-
-![Order Confirmation](images/justway-order-confirmation.jpg)
 
 ## Production and Shipping
 
 The order can be tracked through the different stages of production and shipping.
 
-![Production Status](images/justway-production.jpg)
+![Production Status](images/production.png)
 
-![Shipping Status](images/justway-shipping.jpg)
+
 
 ---
 
@@ -69,7 +65,7 @@ The custom aluminum parts arrived safely packaged and ready to be integrated int
 
 ## Packaging
 
-![JUSTWAY Package](images/justway-package.jpg)
+![JUSTWAY Package](images/package.png)
 
 ## CNC Machined Parts
 
